@@ -1,0 +1,14 @@
+name = MediaSalsa SiteBuilder
+description = Theme for Mediasalsa Demo
+version = VERSION
+core = 7.x
+
+stylesheets[all][] = css/mediasalsa.css
+
+regions[header] = Header
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content
+regions[sidebar_first] = Right sidebar
+regions[footer] = Footer
+
