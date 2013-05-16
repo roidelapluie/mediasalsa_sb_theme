@@ -2,6 +2,7 @@ name = MediaSalsa SiteBuilder
 description = Theme for Mediasalsa Demo
 version = VERSION
 core = 7.x
+base theme = mediamosa_sb_theme
 
 stylesheets[all][] = css/mediasalsa.css
 
